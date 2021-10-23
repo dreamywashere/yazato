@@ -1,0 +1,2 @@
+# yazato
+Discord account generator
